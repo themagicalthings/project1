@@ -1,0 +1,24 @@
+    Python Documentation: The official Python documentation is a great resource for understanding the language's features, functions, and libraries.
+        Website: https://docs.python.org/3/
+
+    Regular Expressions: As you're working on redacting information, regular expressions will be crucial. This resource provides an introduction to Python's re library and regex usage.
+        Website: https://docs.python.org/3/library/re.html
+
+    Pytest: This testing framework will be helpful for writing and running tests for your project.
+        Documentation: https://docs.pytest.org/en/latest/
+        Quick start guide: https://docs.pytest.org/en/latest/getting-started.html
+
+    Package Structure: Learn about organizing Python packages and modules.
+        Tutorial: https://realpython.com/python-modules-packages/
+        Packaging projects: https://packaging.python.org/tutorials/packaging-projects/
+
+    Python Project Best Practices: To ensure your project is well-structured and maintainable, this resource provides guidance on best practices.
+        Website: https://docs.python-guide.org/writing/structure/
+
+    Git: Version control is essential for managing your code, and Git is one of the most widely used version control systems.
+        Official documentation: https://git-scm.com/doc
+        Beginner's guide: https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
+
+    GitHub: This platform allows you to host your project and collaborate with others.
+        Official documentation: https://docs.github.com/en
+        Beginner's guide: https://guides.github.com/activities/hello-world/
