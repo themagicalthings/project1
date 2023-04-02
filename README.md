@@ -84,3 +84,12 @@ If you want to customize the script to redact additional information, you can do
 ***License***
 
 This script is provided under the MIT License. You can use, modify, and distribute the script, but you must include the license notice in all copies or substantial portions of the software.
+
+
+*** Output ***
+
+<img width="1108" alt="Screenshot 2023-04-02 at 12 15 21 AM" src="https://user-images.githubusercontent.com/115323632/229333271-349bad86-da70-4cb4-93ea-752922698a89.png">
+
+<img width="1108" alt="Screenshot 2023-04-02 at 12 24 10 AM" src="https://user-images.githubusercontent.com/115323632/229333282-bb022dd0-0f71-4480-a1cb-3bb38799d9e2.png">
+
+<img width="1456" alt="Screenshot 2023-04-02 at 12 25 18 AM" src="https://user-images.githubusercontent.com/115323632/229333291-3de4e2e5-343f-4d6a-bcad-86a5991c2f43.png">
